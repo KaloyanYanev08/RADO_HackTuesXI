@@ -1,0 +1,33 @@
+
+[data-theme="coffee"]{
+    color-scheme: "light";
+    --color-base-100: #fff9f2;
+    --color-base-200: #fff1e0;
+    --color-base-300: #ebd9ca;
+    --color-base-content: #453f36;
+    --color-primary: #645450;
+    --color-primary-content: #fcf0e1;
+    --color-secondary: #fff8f0;
+    --color-secondary-content: #696259;
+    --color-accent: #4a4342;
+    --color-accent-content: #fff8f0;
+    --color-neutral: #211917;
+    --color-neutral-content: #fff8f0;
+    --color-info: oklch(90% 0.058 230.902);
+    --color-info-content: oklch(29% 0.066 243.157);
+    --color-success: oklch(90% 0.093 164.15);
+    --color-success-content: oklch(37% 0.077 168.94);
+    --color-warning: oklch(92% 0.12 95.746);
+    --color-warning-content: oklch(41% 0.112 45.904);
+    --color-error: oklch(89% 0.058 10.001);
+    --color-error-content: oklch(27% 0.105 12.094);
+    --radius-selector: 1rem;
+    --radius-field: 2rem;
+    --radius-box: 0.5rem;
+    --size-selector: 0.1875rem;
+    --size-field: 0.1875rem;
+    --border: 1.5px;
+    --depth: 1;
+    --noise: 1;
+  }
+  
